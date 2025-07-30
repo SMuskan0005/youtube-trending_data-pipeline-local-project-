@@ -24,6 +24,15 @@ A local ETL pipeline that:
 YouTube API → Python → CSV → PostgreSQL  
 🌀 Orchestrated by Airflow DAG (Optional)
 
+PS :  Get Your YouTube API Key ( for fetching data)
+
+1. Go to: "https://console.cloud.google.com"
+2. Create a project (e.g., yt-pipeline)
+3. Go to “APIs & Services” → “Library”
+4. Search for YouTube Data API v3 → Enable it
+5. Go to “Credentials” → Create API key
+6. Copy and save the key
+
 ---
 
 Directory Structure
