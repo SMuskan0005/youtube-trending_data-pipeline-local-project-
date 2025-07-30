@@ -3,7 +3,7 @@ import datetime
 from db import get_connection
 
 # === YouTube API Setup ===
-API_KEY = 'AIzaSyAz7PqnMJFPHruqsPvki3gWppp_JUYDvsQ'
+API_KEY = 'your_api_key'
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
